@@ -222,7 +222,7 @@ tools:
 
   html-entities:
     title: Entités HTML
-    description: Échappez ou déséchappez les entités HTML (remplace <, >, &, ", etc.).
+    description: "Échappez ou déséchappez les entités HTML (remplace &lt;, &gt;, &amp;, &quot;, etc.)."
 
   json-prettify:
     title: Mise en forme JSON
