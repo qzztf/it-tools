@@ -154,7 +154,7 @@ tools:
 
   random-port-generator:
     title: Générateur de ports aléatoires
-    description: Générez des numéros de port aléatoires en dehors de la plage des ports "connus" (0-1023).
+    description: 'Générez des numéros de port aléatoires en dehors de la plage des ports "connus" (0-1023).'
 
   yaml-prettify:
     title: Mise en forme YAML
@@ -170,11 +170,11 @@ tools:
 
   hmac-generator:
     title: Générateur HMAC
-    description: Calcule un code d'authentification de message basé sur le hachage (HMAC) avec une clé secrète.
+    description: "Calcule un code d'authentification de message basé sur le hachage (HMAC) avec une clé secrète."
 
   bip39-generator:
     title: Générateur de phrase BIP39
-    description: Générez une phrase secrète BIP39 à partir d'un mnémonique existant ou aléatoire.
+    description: "Générez une phrase secrète BIP39 à partir d'un mnémonique existant ou aléatoire."
 
   base64-file-converter:
     title: Convertisseur de fichier Base64
@@ -230,7 +230,7 @@ tools:
 
   docker-run-to-docker-compose-converter:
     title: Docker run vers Compose
-    description: Transformez vos commandes "docker run" en fichiers docker-compose.yml.
+    description: 'Transformez vos commandes "docker run" en fichiers docker-compose.yml.'
 
   mac-address-lookup:
     title: Recherche d'adresse MAC
