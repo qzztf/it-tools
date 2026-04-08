@@ -76,7 +76,7 @@ tools:
 
   chronometer:
     title: Chronomètre
-    description: Surveillez la durée d'un événement. Un chronomètre simple avec des fonctionnalités de base.
+    description: "Surveillez la durée d'un événement. Un chronomètre simple avec des fonctionnalités de base."
 
   token-generator:
     title: Générateur de jetons (Tokens)
@@ -94,7 +94,7 @@ tools:
 
   percentage-calculator:
     title: Calculateur de pourcentage
-    description: Calculez facilement des pourcentages d'une valeur à une autre, ou d'un pourcentage vers une valeur.
+    description: "Calculez facilement des pourcentages d'une valeur à une autre, ou d'un pourcentage vers une valeur."
 
   svg-placeholder-generator:
     title: Générateur de placeholder SVG
@@ -110,7 +110,7 @@ tools:
 
   keycode-info:
     title: Infos Keycode
-    description: Trouvez le keycode JavaScript, le code, l'emplacement et les modificateurs de n'importe quelle touche pressée.
+    description: "Trouvez le keycode JavaScript, le code, l'emplacement et les modificateurs de n'importe quelle touche pressée."
 
   emoji-picker:
     title: Sélecteur d'emojis
@@ -122,7 +122,7 @@ tools:
 
   bcrypt:
     title: Bcrypt
-    description: Hachez et comparez des chaînes de texte en utilisant Bcrypt (basé sur l'algorithme Blowfish).
+    description: "Hachez et comparez des chaînes de texte en utilisant Bcrypt (basé sur l'algorithme Blowfish)."
 
   crontab-generator:
     title: Générateur de Crontab
@@ -138,7 +138,7 @@ tools:
 
   benchmark-builder:
     title: Constructeur de benchmark
-    description: Comparez facilement le temps d'exécution de tâches avec ce constructeur de benchmark en ligne très simple.
+    description: "Comparez facilement le temps d'exécution de tâches avec ce constructeur de benchmark en ligne très simple."
 
   git-memo:
     title: Aide-mémoire Git
@@ -162,7 +162,7 @@ tools:
 
   eta-calculator:
     title: Calculateur d'ETA
-    description: Déterminez l'heure de fin approximative d'une tâche (ex: téléchargement de fichier) et sa durée.
+    description: "Déterminez l'heure de fin approximative d'une tâche (ex: téléchargement de fichier) et sa durée."
 
   roman-numeral-converter:
     title: Chiffres romains
@@ -206,19 +206,19 @@ tools:
 
   iban-validator-and-parser:
     title: Validateur/Analyseur d'IBAN
-    description: Vérifiez la validité d'un IBAN et obtenez les détails (pays, BBAN, format friendly).
+    description: "Vérifiez la validité d'un IBAN et obtenez les détails (pays, BBAN, format friendly)."
 
   user-agent-parser:
     title: Analyseur de User-Agent
-    description: Détectez le navigateur, le moteur, l'OS, le CPU et le type d'appareil à partir d'une chaîne User-Agent.
+    description: "Détectez le navigateur, le moteur, l'OS, le CPU et le type d'appareil à partir d'une chaîne User-Agent."
 
   numeronym-generator:
     title: Générateur de numéronymes
-    description: Créez des abréviations numériques (ex: "i18n" pour "internationalization").
+    description: 'Créez des abréviations numériques (ex: "i18n" pour "internationalization").'
 
   case-converter:
     title: Convertisseur de casse
-    description: Transformez la casse d'une chaîne (camelCase, snake_case, PascalCase, etc.).
+    description: "Transformez la casse d'une chaîne (camelCase, snake_case, PascalCase, etc.)."
 
   html-entities:
     title: Entités HTML
@@ -234,7 +234,7 @@ tools:
 
   mac-address-lookup:
     title: Recherche d'adresse MAC
-    description: Trouvez le vendeur et le fabricant d'un appareil via son adresse MAC.
+    description: "Trouvez le vendeur et le fabricant d'un appareil via son adresse MAC."
 
   mime-types:
     title: Types MIME
@@ -298,7 +298,7 @@ tools:
 
   phone-parser-and-formatter:
     title: Analyseur de téléphone
-    description: Validez et formatez des numéros de téléphone et identifiez le pays d'origine.
+    description: "Validez et formatez des numéros de téléphone et identifiez le pays d'origine."
 
   ipv4-subnet-calculator:
     title: Calculateur de sous-réseau IPv4
@@ -306,7 +306,7 @@ tools:
 
   og-meta-generator:
     title: Générateur Meta Open Graph
-    description: Générez les balises HTML Meta pour les réseaux sociaux et l'Open Graph.
+    description: "Générez les balises HTML Meta pour les réseaux sociaux et l'Open Graph."
 
   ipv6-ula-generator:
     title: Générateur ULA IPv6
@@ -326,7 +326,7 @@ tools:
 
   pdf-signature-checker:
     title: Vérificateur de signature PDF
-    description: Vérifiez si les signatures d'un fichier PDF sont valides et si le contenu a été altéré.
+    description: "Vérifiez si les signatures d'un fichier PDF sont valides et si le contenu a été altéré."
 
   json-minify:
     title: Minificateur JSON
@@ -358,15 +358,15 @@ tools:
 
   text-statistics:
     title: Statistiques de texte
-    description: Obtenez le nombre de caractères, de mots et la taille en octets d'un texte.
+    description: "Obtenez le nombre de caractères, de mots et la taille en octets d'un texte."
 
   text-to-nato-alphabet:
     title: Alphabet OTAN
-    description: Transformez un texte en alphabet phonétique de l'OTAN pour la transmission orale.
+    description: "Transformez un texte en alphabet phonétique de l'OTAN pour la transmission orale."
 
   basic-auth-generator:
     title: Générateur d'Auth Basic
-    description: Générez une en-tête d'authentification Basic (Base64) à partir d'un utilisateur et d'un mot de passe.
+    description: "Générez une en-tête d'authentification Basic (Base64) à partir d'un utilisateur et d'un mot de passe."
 
   text-to-unicode:
     title: Texte vers Unicode
@@ -382,11 +382,11 @@ tools:
 
   otp-generator:
     title: Générateur OTP
-    description: Générez et validez des codes OTP (One Time Password) pour l'authentification multi-facteurs.
+    description: "Générez et validez des codes OTP (One Time Password) pour l'authentification multi-facteurs."
 
   url-encoder:
     title: Encodeur/Décodeur URL
-    description: Encodez ou décodez des chaînes au format "percent-encoded".
+    description: 'Encodez ou décodez des chaînes au format "percent-encoded".'
 
   text-to-binary:
     title: Texte vers Binaire
