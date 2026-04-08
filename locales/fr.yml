@@ -28,7 +28,7 @@ home:
     lightMode: 'Mode clair'
     mode: 'Basculer le mode sombre/clair'
 about:
-  content: >
+  content: |
     # À propos de IT-Tools
 
     Ce merveilleux site, fait avec ❤ par [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=about), regroupe des outils utiles pour les développeurs et les personnes travaillant dans l'informatique. Si vous le trouvez utile, n'hésitez pas à le partager et n'oubliez pas de le mettre dans vos favoris !
