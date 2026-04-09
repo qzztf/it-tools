@@ -1,7 +1,7 @@
 import { tool as base64FileConverter } from './base64-file-converter';
 import { tool as base64StringConverter } from './base64-string-converter';
 import { tool as basicAuthGenerator } from './basic-auth-generator';
-import { tool as markdownPreview } from './markdown-preview';
+import { tool as javascriptObfuscator } from './javascript-obfuscator';
 import { tool as emailNormalizer } from './email-normalizer';
 
 import { tool as asciiTextDrawer } from './ascii-text-drawer';
@@ -117,7 +117,6 @@ export const toolsByCategory: ToolCategory[] = [
       xmlToJson,
       jsonToXml,
       markdownToHtml,
-      markdownPreview,
     ],
   },
   {
@@ -162,6 +161,7 @@ export const toolsByCategory: ToolCategory[] = [
       emailNormalizer,
       regexTester,
       regexMemo,
+      javascriptObfuscator,
     ],
   },
   {
