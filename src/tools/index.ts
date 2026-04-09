@@ -1,7 +1,7 @@
 import { tool as base64FileConverter } from './base64-file-converter';
 import { tool as base64StringConverter } from './base64-string-converter';
 import { tool as basicAuthGenerator } from './basic-auth-generator';
-import { tool as javascriptObfuscator } from './javascript-obfuscator';
+import { tool as ibanGenerator } from './iban-generator';
 import { tool as emailNormalizer } from './email-normalizer';
 
 import { tool as asciiTextDrawer } from './ascii-text-drawer';
@@ -88,7 +88,6 @@ import { tool as uuidGenerator } from './uuid-generator';
 import { tool as macAddressLookup } from './mac-address-lookup';
 import { tool as xmlFormatter } from './xml-formatter';
 import { tool as yamlViewer } from './yaml-viewer';
-import { tool as gzipConverter } from './gzip-converter';
 
 export const toolsByCategory: ToolCategory[] = [
   {
@@ -118,7 +117,6 @@ export const toolsByCategory: ToolCategory[] = [
       xmlToJson,
       jsonToXml,
       markdownToHtml,
-      gzipConverter,
     ],
   },
   {
@@ -163,7 +161,6 @@ export const toolsByCategory: ToolCategory[] = [
       emailNormalizer,
       regexTester,
       regexMemo,
-      javascriptObfuscator,
     ],
   },
   {
@@ -192,7 +189,7 @@ export const toolsByCategory: ToolCategory[] = [
   },
   {
     name: 'Data',
-    components: [phoneParserAndFormatter, ibanValidatorAndParser],
+    components: [phoneParserAndFormatter, ibanValidatorAndParser, ibanGenerator],
   },
 ];
 
