@@ -388,3 +388,11 @@ tools:
   text-to-binary:
     title: 文本到 ASCII 二进制
     description: 将文本转换为其 ASCII 二进制表示形式，反之亦然。
+
+  latex-to-unicode:
+    title: LaTeX 转 Unicode
+    description: 将 LaTeX 数学表达式转换为其 Unicode 等效项。支持广泛的 LaTeX 数学符号和表达式，使您可以轻松地在纯文本中包含数学符号。
+
+  text-to-styled-letters:
+    title: 文本转样式化字母
+    description: 将文本转换为各种样式化的字母（如粗体、斜体、双线体、花体等）。
